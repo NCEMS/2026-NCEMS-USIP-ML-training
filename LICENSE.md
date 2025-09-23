@@ -1,8 +1,8 @@
-### License for BPS-2025-training-instructor repository and associated data
+### License for 2025-NCEMS-ML-webinar repository and associated data
 
 These data and the associated code are provided solely for the purpose of rerunning and studying the examples 
-from the training **Hands-on Training: Four Interpretable Machine Learning Techniques to Immediately Accelerate your Research**
-held on **Feb 17, 2025** at the Biophysical Society 2025 Annual Meeting. 
+from the training.
+
 
 ### You may:
 
